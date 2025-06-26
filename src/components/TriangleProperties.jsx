@@ -3,9 +3,9 @@ export default function TriangleProperties({ properties }) {
     <div className="properties-grid">
       <div className="card">
         <h2 className="card-heading">Side Lengths</h2>
-        <p className="card-text">AB: {properties.sideAB} units</p>
-        <p className="card-text">BC: {properties.sideBC} units</p>
-        <p className="card-text">CA: {properties.sideCA} units</p>
+        <p className="card-text">AB: {properties.sideAB} cm</p>
+        <p className="card-text">BC: {properties.sideBC} cm</p>
+        <p className="card-text">CA: {properties.sideCA} cm</p>
       </div>
 
       <div className="card">

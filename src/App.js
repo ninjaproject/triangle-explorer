@@ -81,9 +81,9 @@ export default function App() {
       });
     } else if (type === "Isosceles") {
       setPoints({
-        A: { x: 200, y: 100 },
-        B: { x: 120, y: 300 },
-        C: { x: 280, y: 300 },
+        A: { x: 200, y: 130 },
+        B: { x: 148, y: 300 },
+        C: { x: 252, y: 300 },
       });
     } else if (type === "Scalene") {
       setPoints({
